@@ -17,6 +17,7 @@ gem 'high_voltage'
 gem 'pg'
 gem 'pundit'
 gem 'upmin-admin'
+gem 'koudoku'
 group :development do
   gem 'better_errors'
   gem 'binding_of_caller', :platforms=>[:mri_21]
